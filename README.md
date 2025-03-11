@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 ## salida tldraw
-![alt text](image.png)
+![alt text](image-1.png)
 
 This project is a starting point for a Flutter application.
 
